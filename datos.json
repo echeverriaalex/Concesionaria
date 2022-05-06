@@ -1,0 +1,26 @@
+[
+    {
+        "marca": "Toyota",
+        "modelo": "Supra",
+        "año": "1999",
+        "imagen": "https://cdn.motor1.com/images/mgl/PKZQL/s3/1997-toyota-supra-sold-for-176-000-at-auction.jpg"
+    },
+    {
+        "marca": "Honda",
+        "modelo": "nsx",
+        "año": 1998,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLBuCTLbplgACzGrRcSuh-YEbBeD3stt1SZw&usqp=CAU"
+    },
+    {
+        "marca": "Nissan",
+        "modelo": "skyline GTR 34",
+        "año": 2003,
+        "imagen": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nissan-skyline-sale-1602601476.jpg?crop=1.00xw:0.753xh;0,0.0660xh&resize=1200:*"
+    },
+    {
+        "marca": "Mazda",
+        "modelo": "RX 8",
+        "año": 2005,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mazda_RX8.jpg/1280px-Mazda_RX8.jpg"
+    }
+]
