@@ -29,4 +29,8 @@ let lista = fetch("./datos.json").then(response => response.json())
             article.append(marca);
             document.body.append(article);
         });
+
+        let h1 = document.createElement("h1");
+        h1.innerHTML = "Final del catalogo";
+        document.body.append(h1);
     });

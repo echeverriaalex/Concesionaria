@@ -6,12 +6,14 @@ html{
 }
 
 ul{
-    display: inline-block;
+    /*display: inline-block;*/
+    margin-top: 10px;
 }
 
 nav{
 
-    text-align: center;
+    font-size: 20px;
+    /*text-align: center;*/
 }
 
 h1{
