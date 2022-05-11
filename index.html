@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Japoneses</title>
 </head>
 <body>
     <header>
@@ -14,20 +14,27 @@
     <nav>
         <ul>
             <li>Inicio</li>
-            <ul>Contacto
+            <li>Contacto</li>
+            <ul>
                 <li>Instagram</li>
                 <li>Telefono</li>
                 <li>Twitter</li>
             </ul>
-            <ul>Marcas
+            <li>Marcas</li>
+            <ul>
                 <li>Toyota</li>
                 <li>Nissan</li>
                 <li>Honda</li>
                 <li>Mazda</li>
             </ul>
         </ul>
+
+        <form>
+            <input type="text" placeholder="buscar" id="buscador" >
+            <button type="submit" onclick="buscador()" > Buscar </button>
+        </form>
     </nav>
-    <div class="catalogo"> </div>
+    <div class="catalogo" id="catalogo"> </div>
     <script src="app.js"></script>
 </body>
 </html>
