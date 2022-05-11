@@ -22,5 +22,35 @@
         "modelo": "RX 8",
         "año": 2005,
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mazda_RX8.jpg/1280px-Mazda_RX8.jpg"
+    },
+    {
+        "marca": "Mazda ",
+        "modelo": "RX-7",
+        "año": 2010,
+        "imagen": "https://acnews.blob.core.windows.net/imgnews/paragraph/NPAZ_67854952ebcf4fb6b27aa1baa52b8e5c.jpg"
+    },
+    {
+        "marca": "Mitsubishi ",
+        "modelo": "3000GT",
+        "año": 2005,
+        "imagen": "https://acnews.blob.core.windows.net/imgnews/paragraph/NPAZ_301c7046094f455f8a8adf85c2b82177.jpg"
+    },
+    {
+        "marca": "Nissan ",
+        "modelo": "300ZX",
+        "año": 2008,
+        "imagen": "https://acnews.blob.core.windows.net/imgnews/paragraph/NPAZ_6be741d1b8ee43868b2633b88eaafb05.jpg"
+    },
+    {
+        "marca": "Honda ",
+        "modelo": "Civic Type-R",
+        "año": 2008,
+        "imagen": "https://cdn.autobild.es/sites/navi.axelspringer.es/public/styles/855/public/media/image/2020/06/increible-historia-honda-civic-type-r-1978221.jpg?itok=QtFfau-y"
+    },
+    {
+        "marca": "Mitsubishi ",
+        "modelo": "Lancer Evo 9",
+        "año": 2008,
+        "imagen": "https://static.emol.cl/emol50/Fotos/2021/05/03/file_20210503131737.jpg"
     }
 ]
