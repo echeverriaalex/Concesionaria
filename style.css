@@ -4,11 +4,11 @@
 }
 
 body{
-    background-color: gray;
+    background-color: rgb(255, 255, 255);
 }
 
 html{
-    background-color: rgb(203, 13, 241);
+    background-color: rgb(241, 241, 241);
 }
 
 ul{
@@ -32,6 +32,12 @@ img{
     /*margin: 20px;*/
 }
 
+nav{
+
+    background-color: antiquewhite;
+    display: inline;
+}
+
 #section-image{
 
     width: 80%;
@@ -46,7 +52,7 @@ img{
     border-style: dotted;
     width: 510px;
     height: 300px;
-    background-color: rgb(97, 20, 220);
+    background-color: rgba(111, 8, 158, 0.829);
     display: inline-block;
 }
 
@@ -54,7 +60,7 @@ img{
     float: left; 
     width: 20%;
     height: 100%; 
-    background-color: #eb26da;
+    background-color: #9c26eb;
     text-align: center;
 }
 
@@ -62,7 +68,7 @@ img{
 
     
     width: 85%;
-    background-color: aqua;
+    background-color: rgba(196, 196, 196, 0.753);
     margin: auto;
     margin-top: 30px;
 }

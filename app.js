@@ -53,7 +53,7 @@ var micatalogo = document.getElementById("catalogo");
 let lista = fetch("./datos.json").then(response => response.json())
 .then((datos) => {
     listaAutos = datos;
-        console.log("\nautos\n", datos);
+       // console.log("\nautos\n", datos);
         
         datos.forEach(dato => {
 
@@ -70,9 +70,11 @@ let lista = fetch("./datos.json").then(response => response.json())
 
         });
 
+        /*
         let h1 = document.createElement("h1");
         h1.innerHTML = "Final del catalogo";
         document.body.append(h1);
+        */
     });
 
 
@@ -81,4 +83,27 @@ let lista = fetch("./datos.json").then(response => response.json())
     //console.log(autos);
 
 
-    console.log("\n\nListado de autos \n", listaAutos);
+    //console.log("\n\nListado de autos \n", listaAutos);
+
+
+    let array = [[1,2,3], [4,5,6], [7,8,9]];
+
+    for(let i = 0; i < array.length; i++){
+
+        console.log(`\nEl primer for esta en el indice ${i} 
+        con valor ${array[i]} y el array contiene ${array}`);
+
+        for(let j = 0; j < array[i].length; j++){
+
+            console.log(`\nEl segundo for esta en el indice ${j} 
+            con valor ${array[i][j]} y array contiene ${array[i]}`);
+
+            /*
+            for(let k = 0; k < array[j].length; k++){
+
+                console.log(`\nEl tercer for recorre el sub array
+                valor de indice es ${array[j][k]}`)
+            }
+            */
+        }
+    }
